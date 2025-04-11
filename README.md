@@ -1,3 +1,4 @@
+![gitartwork](gitartwork.svg)
 <h1 align="center">Hi 👋, I'm Anshul Parate</h1>
 
 <h3 align="center">💻 Passionate Full Stack Developer | Django & React Enthusiast | AIML Student</h3>
