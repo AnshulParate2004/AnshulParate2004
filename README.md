@@ -71,6 +71,11 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshulparate2004" alt="GitHub Streak" />
 </p>
+## 📈 GitHub Contribution Graph
+
+<p href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Anshul's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=anshulparate2004&bg_color=1F222E&color=F8D866&line=00FFFF&point=F8D866&area=true&hide_border=true"/>
+</p>
 
 ---
 
