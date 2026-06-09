@@ -15,8 +15,6 @@
 
 - Open to collaborating on open-source projects related to **web development**, **data structures and algorithms**, and **machine learning–enabled tools**.
 
-- Seeking guidance and feedback on **system design fundamentals**, **backend performance optimization**, and **production-level best practices** — from scaling APIs (~15k req/min) to shipping reliable LLM features.
-
 - Actively learning **advanced React patterns**, **backend system design concepts**, and **practical applications of machine learning** in real-world systems — including **LangGraph**, **LangChain**, and agentic AI workflows.
 
 - Comfortable discussing **React**, **REST APIs**, **JWT-based authentication**, **data structures and algorithms**, and **end-to-end full-stack development**.
@@ -94,7 +92,7 @@
 
 - **SelfEvolvingAgent** — Self-evolving, parallel-processing multi-agent system with human-in-the-loop governance via REST API.
 
-- **Renewal-Upsell-Advisor** — Autonomous revenue agent that predicts churn, triggers renewal workflows, and closes deals with voice calls and embedded payment links.
+- **Renewal-Upsell-Advisor** — Autonomous revenue agent that predicts churn, triggers renewal workflows, and closes deals with voice calls and embedded payment links. [Live demo](https://renewal-upsell-advisor.services.ailifebot.com/)
 
 - **AutoVedioGenerator** — AI-powered REST API that generates educational videos from any topic (LLM script, TTS voiceover, Manim animations).
 
