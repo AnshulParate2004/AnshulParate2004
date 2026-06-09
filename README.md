@@ -23,15 +23,14 @@
 
 - Interested in **simplifying and visualizing complex algorithms** to improve conceptual understanding.
 
-
-**Currently:** AI Intern @ AI Lifebot · AI Engineering Intern @ Atomrank.in · Based in Nagpur, India
+- Passionate about building **innovative document-AI systems** — from multimodal RAG pipelines to **vectorless, agentic retrieval** — and turning complex indexing research into practical developer tools.
 
 ---
 
 ## Socials
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshulparate/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshulnparateweb@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/anshulparate2004)
 
 ---
 
@@ -85,8 +84,22 @@
 
 ## Featured Work
 
-- **Multi-Modular RAG System** — Image & table-aware pipeline with LangGraph achieving 92% extraction accuracy across 1,000+ documents; built with React, FastAPI, Qdrant, Chroma, and PostgreSQL.
+### Most innovative
 
-- **NEET Prep AI Chatbot @ Atomrank.in** — OpenAI Agent SDK chatbot over 6+ NCERT books with Qdrant; scaled to ~15,000 requests per minute with conversation logging in PostgreSQL.
+- **MVL-AgneticAI** — Vectorless multimodal RAG: an LLM builds a hierarchical document tree (no embeddings, no vector DB), with an agentic chat planner that retrieves ranked sections and surfaces relevant images and tables alongside answers. Built with FastAPI, React, Supabase, MongoDB, and Unstructured.io.
 
-- **Hackathon '26 Winner (TECHBLONS 2026)** — Problem statement: *Evolution of AI/ML in Education*, organized by P. R. Pote Patil College of Engineering & Management, Amravati.
+- **ChunkSmith-Home** — Document-indexing research ecosystem spanning **ChunkSmith CLI (V2)** (JSON, TOON, and PageIndexer pipelines with Python + TypeScript parity) and **ChunkSmith V1** (multimodal RAG with image/table extraction). [Live demo](https://multi-modul-rag.vercel.app/)
+
+### Other major projects
+
+- **SelfEvolvingAgent** — Self-evolving, parallel-processing multi-agent system with human-in-the-loop governance via REST API.
+
+- **Renewal-Upsell-Advisor** — Autonomous revenue agent that predicts churn, triggers renewal workflows, and closes deals with voice calls and embedded payment links.
+
+- **AutoVedioGenerator** — AI-powered REST API that generates educational videos from any topic (LLM script, TTS voiceover, Manim animations).
+
+- **Finacal Adviser** — Converts natural-language trading rules into executable, backtested strategies with an interactive React dashboard.
+
+- **Interviewer_AI** — AI interview practice platform with LangChain-powered backend and real-time video analysis.
+
+- **VoiceAgent** — Real-time browser voice agent built with React and Vite.
