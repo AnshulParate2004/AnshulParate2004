@@ -1,7 +1,7 @@
 ![gitartwork](gitartwork.svg)
 <h1 align="center">Hi 👋, I'm Anshul Parate</h1>
 
-<h3 align="center">💻 Passionate Full Stack Developer | Django & React Enthusiast | AIML Student</h3>
+<h3 align="center">AI/ML Developer | Full-Stack (React, FastAPI, MongoDB) | B.Tech CSE (AIML) @ SRCEM Nagpur</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anshulparate2004&label=Profile%20views&color=0e75b6&style=flat" alt="anshulparate2004" />
@@ -9,77 +9,85 @@
 
 ---
 
-### 🧠 About Me
+## About Me
 
-🎓 I’m currently pursuing a BTech in **Computer Science and Engineering (CSE)** with a specialization in **Artificial Intelligence and Machine Learning (AIML)** at RBU.  
-💡 I'm passionate about solving real-world problems with technology and building meaningful projects.  
-🛠️ I have experience working with **Python, Java, C, C++**, and full-stack development using **Django, React**, and **PostgreSQL**.  
-🚀 Currently learning more about **DevOps**, **cloud deployment**, and advanced backend systems.  
+- Currently working on full-stack web applications using **React**, **Node.js**, and **MongoDB**, with an emphasis on clean architecture, scalability, and maintainability. I also build production AI systems with **FastAPI**, **PostgreSQL**, and vector stores like **Qdrant** and **Chroma**.
 
----
+- Open to collaborating on open-source projects related to **web development**, **data structures and algorithms**, and **machine learning–enabled tools**.
 
-### 🤝 Connect with Me
+- Seeking guidance and feedback on **system design fundamentals**, **backend performance optimization**, and **production-level best practices** — from scaling APIs (~15k req/min) to shipping reliable LLM features.
 
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/anshulparate2004">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+- Actively learning **advanced React patterns**, **backend system design concepts**, and **practical applications of machine learning** in real-world systems — including **LangGraph**, **LangChain**, and agentic AI workflows.
+
+- Comfortable discussing **React**, **REST APIs**, **JWT-based authentication**, **data structures and algorithms**, and **end-to-end full-stack development**.
+
+- Interested in **simplifying and visualizing complex algorithms** to improve conceptual understanding.
+
+**Education:** B.Tech CSE (AIML), Shri Ramdeobaba College of Engineering & Management, Nagpur (2023–Present) · CGPA: 8.05
+
+**Currently:** AI Intern @ AI Lifebot · AI Engineering Intern @ Atomrank.in · Based in Nagpur, India
 
 ---
 
-### 🛠️ Languages & Tools
+## Socials
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40" alt="Git"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-Learn"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch"/>
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshulnparateweb@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/anshulparate2004)
 
 ---
 
-### 📊 GitHub Stats
+## Tech Stack
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshulparate2004&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anshulparate2004&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshulparate2004" alt="GitHub Streak" />
-</p>
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
-### ✨ Fun Facts
+## GitHub Stats
 
-- 📫 Fun fact: I enjoy UI design just as much as coding!  
-- 📍 Based in Nagpur, India 🇮🇳  
+![](https://github-readme-stats.vercel.app/api?username=anshulparate2004&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=anshulparate2004&theme=merko&hide_border=false)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulparate2004&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-Feel free to connect or collaborate — I'm always open to exciting opportunities!
+## Featured Work
+
+- **Multi-Modular RAG System** — Image & table-aware pipeline with LangGraph achieving 92% extraction accuracy across 1,000+ documents; built with React, FastAPI, Qdrant, Chroma, and PostgreSQL.
+
+- **NEET Prep AI Chatbot @ Atomrank.in** — OpenAI Agent SDK chatbot over 6+ NCERT books with Qdrant; scaled to ~15,000 requests per minute with conversation logging in PostgreSQL.
+
+- **Hackathon '26 Winner (TECHBLONS 2026)** — Problem statement: *Evolution of AI/ML in Education*, organized by P. R. Pote Patil College of Engineering & Management, Amravati.
