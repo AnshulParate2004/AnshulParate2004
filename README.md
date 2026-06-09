@@ -23,7 +23,6 @@
 
 - Interested in **simplifying and visualizing complex algorithms** to improve conceptual understanding.
 
-**Education:** B.Tech CSE (AIML), Shri Ramdeobaba College of Engineering & Management, Nagpur (2023–Present) · CGPA: 8.05
 
 **Currently:** AI Intern @ AI Lifebot · AI Engineering Intern @ Atomrank.in · Based in Nagpur, India
 
