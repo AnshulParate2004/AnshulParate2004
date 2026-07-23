@@ -8,15 +8,15 @@
 
 <p align="center">
   <a href="https://github.com/anshulparate2004">
-    <img src="https://img.shields.io/badge/GitHub-06111F?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-06111F?style=for-the-badge&amp;logo=github&amp;logoColor=38BDF8" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/anshulparate/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:anshulnparateweb@gmail.com">
-    <img src="https://img.shields.io/badge/Email-075985?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-075985?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=anshulparate2004&label=Profile%20views&color=38bdf8&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=anshulparate2004&amp;label=Profile%20views&amp;color=38bdf8&amp;style=for-the-badge" alt="Profile views" />
 </p>
 
 <div align="center">
@@ -47,16 +47,16 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,html,css,react,tailwind,nodejs,fastapi,mongodb,postgres,mysql,docker,git,github,postman,vercel&perline=10" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,html,css,react,tailwind,nodejs,fastapi,mongodb,postgres,mysql,docker,git,github,postman,vercel&amp;perline=10" alt="Technology icons" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-082F49?style=for-the-badge&logo=langchain&logoColor=38BDF8" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-06111F?style=for-the-badge&logo=github&logoColor=38BDF8" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Qdrant-075985?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
-  <img src="https://img.shields.io/badge/Chroma-0C4A6E?style=for-the-badge&logoColor=white" alt="Chroma" />
-  <img src="https://img.shields.io/badge/TensorFlow-0369A1?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-0284C7?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/LangChain-082F49?style=for-the-badge&amp;logo=langchain&amp;logoColor=38BDF8" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-06111F?style=for-the-badge&amp;logo=github&amp;logoColor=38BDF8" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Qdrant-075985?style=for-the-badge&amp;logo=qdrant&amp;logoColor=white" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/Chroma-0C4A6E?style=for-the-badge&amp;logoColor=white" alt="Chroma" />
+  <img src="https://img.shields.io/badge/TensorFlow-0369A1?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-0284C7?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
 </p>
 
 ---
@@ -77,12 +77,16 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anshulparate2004&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=38bdf8&icon_color=38bdf8" alt="Anshul's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulparate2004&theme=tokyonight&hide_border=true&layout=compact&title_color=38bdf8" alt="Anshul's top languages" />
+  <img width="820" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshulparate2004&amp;theme=github_dark" alt="Anshul's GitHub contribution summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshulparate2004&theme=tokyonight&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="Anshul's GitHub streak" />
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anshulparate2004&amp;theme=github_dark" alt="Anshul's top languages by repository" />
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anshulparate2004&amp;theme=github_dark" alt="Anshul's GitHub profile stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshulparate2004&amp;theme=tokyonight&amp;hide_border=true&amp;ring=38bdf8&amp;fire=38bdf8&amp;currStreakLabel=38bdf8" alt="Anshul's GitHub streak" />
 </p>
 
 <p align="center">
