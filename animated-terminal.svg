@@ -1,3 +1,156 @@
+<<<<<<< HEAD
+<svg width="1000" height="520" viewBox="0 0 1000 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Anshul Parate blue animated GitHub profile banner</title>
+  <desc id="desc">A clean blue terminal-style animated GitHub profile banner for Anshul Parate.</desc>
+  <style>
+    .bg { fill: #050b16; }
+    .frame { fill: #071827; stroke: url(#border); stroke-width: 2; }
+    .grid { stroke: #153452; stroke-width: 1; opacity: .45; }
+    .scan { animation: scan 4.8s ease-in-out infinite; opacity: .55; }
+    .orb { fill: url(#orb); opacity: .45; }
+    .prompt { fill: #38bdf8; font: 800 13px Consolas, Monaco, monospace; }
+    .muted { fill: #8fb6d8; font: 700 13px Consolas, Monaco, monospace; }
+    .cmd { fill: #7dd3fc; font: 900 13px Consolas, Monaco, monospace; }
+    .hello { fill: #e0f2fe; font: 900 23px Consolas, Monaco, monospace; }
+    .name { fill: url(#name); font: 900 60px 'Segoe UI', Arial, sans-serif; letter-spacing: 0; filter: url(#glow); }
+    .role { fill: #67e8f9; font: 900 18px 'Segoe UI', Arial, sans-serif; letter-spacing: 0; }
+    .box { fill: #08233a; stroke: #1e6091; }
+    .quote { fill: #e0f2fe; font: 800 14px Consolas, Monaco, monospace; }
+    .section { fill: #93c5fd; font: 900 15px 'Segoe UI', Arial, sans-serif; }
+    .body { fill: #cbd5e1; font: 700 13px 'Segoe UI', Arial, sans-serif; }
+    .chip { fill: #082f49; stroke: #38bdf8; stroke-width: 1.2; }
+    .chipText { fill: #dbeafe; font: 800 12px 'Segoe UI', Arial, sans-serif; }
+    .card { fill: #071423; stroke: #1e6091; filter: url(#shadow); }
+    .cardTop { fill: #0b253d; }
+    .cardTitle { fill: #e0f2fe; font: 900 18px 'Segoe UI', Arial, sans-serif; }
+    .label { fill: #93c5fd; font: 900 11px 'Segoe UI', Arial, sans-serif; }
+    .value { fill: #f8fafc; font: 900 15px 'Segoe UI', Arial, sans-serif; }
+    .code { font: 700 11px Consolas, Monaco, monospace; }
+    .small { fill: #9ec8e8; font: 700 12px Consolas, Monaco, monospace; }
+    .cursor { animation: blink 1s steps(2,start) infinite; }
+    .pulse { animation: pulse 2.6s ease-in-out infinite; transform-origin: center; }
+    .bar1 { animation: grow 4s ease-in-out infinite; transform-origin: left; }
+    .bar2 { animation: grow 4s .5s ease-in-out infinite; transform-origin: left; }
+    .bar3 { animation: grow 4s 1s ease-in-out infinite; transform-origin: left; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes pulse { 0%,100% { opacity: .55; transform: scale(1); } 50% { opacity: 1; transform: scale(1.08); } }
+    @keyframes grow { 0%,100% { transform: scaleX(.2); opacity: .45; } 50% { transform: scaleX(1); opacity: 1; } }
+    @keyframes scan { 0% { transform: translateY(-28px); opacity: 0; } 20%,80% { opacity: .55; } 100% { transform: translateY(492px); opacity: 0; } }
+  </style>
+  <defs>
+    <linearGradient id="border" x1="18" y1="18" x2="982" y2="502" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8"/>
+      <stop offset=".55" stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="name" x1="55" y1="0" x2="500" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f0f9ff"/>
+      <stop offset=".45" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#60a5fa"/>
+      <animate attributeName="x1" values="0;120;0" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="470;640;470" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="orb" cx="50%" cy="50%" r="50%">
+      <stop stop-color="#38bdf8" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="scanGrad" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-35%" width="140%" height="170%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#38bdf8" flood-opacity=".45"/>
+    </filter>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#020617" flood-opacity=".4"/>
+    </filter>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path class="grid" d="M28 0H0V28"/>
+    </pattern>
+  </defs>
+
+  <rect class="bg" width="1000" height="520" rx="26"/>
+  <rect class="frame" x="18" y="18" width="964" height="484" rx="24"/>
+  <rect x="18" y="18" width="964" height="484" rx="24" fill="url(#grid)"/>
+  <rect class="scan" x="18" y="28" width="964" height="4" fill="url(#scanGrad)"/>
+  <circle class="orb" cx="815" cy="118" r="145"/>
+  <circle class="orb" cx="270" cy="430" r="120" opacity=".35"/>
+
+  <circle cx="48" cy="49" r="6" fill="#ef4444"/>
+  <circle cx="70" cy="49" r="6" fill="#f59e0b"/>
+  <circle cx="92" cy="49" r="6" fill="#22c55e"/>
+  <text class="prompt" x="56" y="86">anshul@github-profile:~$</text>
+  <text class="muted" x="260" y="86">cat</text>
+  <text class="cmd" x="294" y="86">README.md</text>
+  <rect class="cursor" x="414" y="69" width="8" height="22" fill="#7dd3fc"/>
+
+  <text class="hello" x="56" y="136">Hi, I'm</text>
+  <text class="name" x="56" y="205">Anshul Parate</text>
+  <text class="role" x="58" y="244">AI/ML Developer | Full-Stack Builder | Agentic AI Explorer</text>
+
+  <rect class="box" x="58" y="270" width="450" height="64" rx="10"/>
+  <rect x="58" y="270" width="5" height="64" fill="#38bdf8"/>
+  <text class="quote" x="86" y="298">I build practical AI systems</text>
+  <text class="quote" x="86" y="320">from research-heavy ideas.</text>
+
+  <text class="section" x="58" y="374">Tech I Build With</text>
+  <g transform="translate(58 392)">
+    <rect class="chip" width="78" height="26" rx="13"/><text class="chipText" x="19" y="18">Python</text>
+    <rect class="chip" x="92" width="74" height="26" rx="13"/><text class="chipText" x="114" y="18">React</text>
+    <rect class="chip" x="180" width="90" height="26" rx="13"/><text class="chipText" x="197" y="18">FastAPI</text>
+    <rect class="chip" x="284" width="108" height="26" rx="13"/><text class="chipText" x="301" y="18">LangGraph</text>
+    <rect class="chip" y="38" width="92" height="26" rx="13"/><text class="chipText" x="18" y="56">MongoDB</text>
+    <rect class="chip" x="106" y="38" width="112" height="26" rx="13"/><text class="chipText" x="123" y="56">PostgreSQL</text>
+    <rect class="chip" x="232" y="38" width="80" height="26" rx="13"/><text class="chipText" x="256" y="56">RAG</text>
+    <rect class="chip" x="326" y="38" width="84" height="26" rx="13"/><text class="chipText" x="346" y="56">Docker</text>
+  </g>
+
+  <g transform="translate(610 70)">
+    <rect class="card" width="315" height="160" rx="16"/>
+    <rect class="cardTop" width="315" height="34" rx="16"/>
+    <circle cx="22" cy="17" r="5" fill="#ef4444"/>
+    <circle cx="42" cy="17" r="5" fill="#f59e0b"/>
+    <circle cx="62" cy="17" r="5" fill="#22c55e"/>
+    <text class="small" x="128" y="21">agent.py</text>
+    <text class="code" x="24" y="60" fill="#93c5fd">def build_profile():</text>
+    <text class="code" x="44" y="84" fill="#38bdf8">return {</text>
+    <text class="code" x="66" y="108" fill="#f8fafc">"frontend": "React",</text>
+    <text class="code" x="66" y="132" fill="#f8fafc">"backend": "FastAPI",</text>
+    <text class="code" x="66" y="156" fill="#f8fafc">"focus": "Agentic AI"</text>
+    <rect class="bar1" x="172" y="54" width="92" height="4" rx="2" fill="#38bdf8"/>
+    <rect class="bar2" x="176" y="102" width="72" height="4" rx="2" fill="#60a5fa"/>
+    <rect class="bar3" x="158" y="150" width="92" height="4" rx="2" fill="#22d3ee"/>
+  </g>
+
+  <g transform="translate(610 260)">
+    <rect class="card" width="315" height="94" rx="16"/>
+    <text class="label" x="24" y="32">CURRENT FOCUS</text>
+    <text class="value" x="24" y="58">Agentic RAG + Document AI</text>
+    <rect x="24" y="72" width="267" height="9" rx="5" fill="#0f2a44"/>
+    <rect class="bar1" x="24" y="72" width="220" height="9" rx="5" fill="#38bdf8"/>
+  </g>
+
+  <g transform="translate(610 386)">
+    <rect class="card" width="315" height="70" rx="16"/>
+    <text class="label" x="35" y="27">FOCUS</text>
+    <text class="label" x="136" y="27">STACK</text>
+    <text class="label" x="253" y="27">MODE</text>
+    <text class="value" x="24" y="51" fill="#38bdf8">AI/RAG</text>
+    <text class="value" x="111" y="51" fill="#38bdf8">React + API</text>
+    <text class="value" x="231" y="51" fill="#38bdf8">Build</text>
+  </g>
+
+  <circle class="pulse" cx="545" cy="148" r="4" fill="#60a5fa"/>
+  <circle class="pulse" cx="945" cy="315" r="4" fill="#22d3ee" style="animation-delay:.4s"/>
+  <path class="pulse" d="M936 250c-12-14-32-4-24 14 3 7 12 14 24 23 12-9 21-16 24-23 8-18-12-28-24-14z" fill="#38bdf8"/>
+
+  <text class="small" x="58" y="480">github.com/anshulparate2004</text>
+  <text class="small" x="302" y="480">anshulnparateweb@gmail.com</text>
+  <circle cx="550" cy="476" r="4" fill="#22c55e"/>
+  <text class="small" x="565" y="480">open to collaborate</text>
+  <text class="cmd" x="746" y="480">"Build useful AI."</text>
+=======
 <svg width="980" height="260" viewBox="0 0 980 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Animated terminal banner for Anshul Parate</title>
   <desc id="desc">A terminal styled GitHub profile banner with animated typing, glowing skill pills, and a scanner line.</desc>
@@ -70,4 +223,5 @@
     </g>
     <text class="muted" x="56" y="224">Building practical AI systems from research-heavy ideas.</text>
   </g>
+>>>>>>> 73a980375174b1f4d62fb43f837445f18bd82ad5
 </svg>

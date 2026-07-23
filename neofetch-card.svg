@@ -1,0 +1,54 @@
+<svg width="520" height="260" viewBox="0 0 520 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Blue neofetch profile card for Anshul Parate</title>
+  <desc id="desc">A blue terminal card summarizing Anshul Parate's role, stack, focus, database tools, learning goals, and motto.</desc>
+  <style>
+    .bg { fill: #06111f; }
+    .panel { fill: #071827; stroke: #2563eb; }
+    .top { fill: #0b253d; }
+    .key { fill: #38bdf8; font: 900 15px Consolas, Monaco, monospace; }
+    .val { fill: #e0f2fe; font: 700 15px Consolas, Monaco, monospace; }
+    .muted { fill: #93c5fd; font: 700 13px Consolas, Monaco, monospace; }
+    .title { fill: #f8fafc; font: 900 18px Consolas, Monaco, monospace; }
+    .ascii { fill: #7dd3fc; font: 900 14px Consolas, Monaco, monospace; }
+    .line { opacity: 0; animation: show .65s ease forwards; }
+    .l1 { animation-delay: .2s; } .l2 { animation-delay: .4s; } .l3 { animation-delay: .6s; }
+    .l4 { animation-delay: .8s; } .l5 { animation-delay: 1s; } .l6 { animation-delay: 1.2s; }
+    .scan { animation: scan 4s ease-in-out infinite; opacity: .55; }
+    @keyframes show { from { opacity: 0; transform: translateX(-10px); } to { opacity: 1; transform: translateX(0); } }
+    @keyframes scan { 0% { transform: translateY(-20px); opacity: 0; } 25%,75% { opacity: .55; } 100% { transform: translateY(245px); opacity: 0; } }
+  </style>
+  <defs>
+    <linearGradient id="scanGrad" x1="0" y1="0" x2="520" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip"><rect x="14" y="14" width="492" height="232" rx="18"/></clipPath>
+  </defs>
+  <rect class="bg" width="520" height="260" rx="22"/>
+  <g clip-path="url(#clip)">
+    <rect class="panel" x="14" y="14" width="492" height="232" rx="18"/>
+    <rect class="top" x="14" y="14" width="492" height="30"/>
+    <circle cx="35" cy="29" r="5" fill="#ef4444"/><circle cx="54" cy="29" r="5" fill="#f59e0b"/><circle cx="73" cy="29" r="5" fill="#22c55e"/>
+    <rect class="scan" x="14" y="45" width="492" height="3" fill="url(#scanGrad)"/>
+    <g transform="translate(36 65)">
+      <text class="ascii" x="0" y="0">    ___    ____ </text>
+      <text class="ascii" x="0" y="20">   /   |  / __ \</text>
+      <text class="ascii" x="0" y="40">  / /| | / /_/ /</text>
+      <text class="ascii" x="0" y="60"> / ___ |/ ____/ </text>
+      <text class="ascii" x="0" y="80">/_/  |_/_/      </text>
+      <text class="muted" x="4" y="120">anshul@github</text>
+      <rect x="4" y="135" width="118" height="8" rx="4" fill="#0f2a44"/>
+      <rect x="4" y="135" width="86" height="8" rx="4" fill="#38bdf8"/>
+    </g>
+    <g transform="translate(205 58)">
+      <text class="title" x="0" y="0">Anshul Parate</text>
+      <g class="line l1"><text class="key" x="0" y="34">role</text><text class="val" x="96" y="34">AI/ML + Full-Stack</text></g>
+      <g class="line l2"><text class="key" x="0" y="62">stack</text><text class="val" x="96" y="62">React, FastAPI, Python</text></g>
+      <g class="line l3"><text class="key" x="0" y="90">focus</text><text class="val" x="96" y="90">Agentic RAG systems</text></g>
+      <g class="line l4"><text class="key" x="0" y="118">data</text><text class="val" x="96" y="118">MongoDB, Postgres</text></g>
+      <g class="line l5"><text class="key" x="0" y="146">learn</text><text class="val" x="96" y="146">System design</text></g>
+      <g class="line l6"><text class="key" x="0" y="174">motto</text><text class="val" x="96" y="174">Build useful AI</text></g>
+    </g>
+  </g>
+</svg>
