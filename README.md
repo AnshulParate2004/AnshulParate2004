@@ -64,20 +64,20 @@
 
 ## Machine Learning Portfolio
 
-I maintain a structured machine learning repository that is organized by topic instead of scattered lab folders:
+I maintain a topic-organized machine learning portfolio with reusable datasets, focused notebooks, and production-style project structures.
 
 | Area | Focus |
 | --- | --- |
-| **Foundations** | EDA, encoding, feature engineering, pandas profiling, and ML notes |
-| **Data Engineering** | CSV/TSV, JSON, MySQL, APIs, web scraping, and data cleaning |
-| **Regression** | Linear, multiple, polynomial, ridge, lasso, Elastic Net, gradient descent, time series, and ensembles |
+| **Foundations** | EDA, encoding, feature engineering, pandas profiling, and machine learning notes |
+| **Data Engineering** | CSV/TSV, JSON, MySQL, APIs, web scraping, and data cleaning workflows |
+| **Regression** | Linear, multiple, polynomial, ridge, lasso, Elastic Net, gradient descent, time series, and ensemble models |
 | **Classification** | Logistic regression, KNN, Naive Bayes, decision trees, Random Forest, SVM, LDA/QDA, Find-S, and loan prediction |
-| **Clustering** | KMeans and PCA / dimensionality reduction |
+| **Clustering** | K-Means, PCA, and dimensionality reduction |
 | **Neural Networks** | Perceptrons, backpropagation, neural networks from scratch, MNIST, sonar classification, and autoencoders |
 | **Computer Vision** | Background subtraction, convolution from scratch, CNNs, and transfer learning |
-| **Production ML** | California housing prediction with a production-style project structure |
+| **Production ML** | California housing prediction with a clean production-oriented structure |
 
-Datasets are centralized separately for easier reuse across notebooks and projects.
+Datasets are centralized separately so notebooks and projects can reuse them without duplication.
 
 ---
 
@@ -85,33 +85,12 @@ Datasets are centralized separately for easier reuse across notebooks and projec
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **MVL-AgneticAI** | Vectorless multimodal RAG that builds a document tree, retrieves ranked sections, and surfaces relevant images/tables with answers. | FastAPI, React, Supabase, MongoDB, Unstructured.io |
-| **ChunkSmith-Home** | Document-indexing research ecosystem covering ChunkSmith CLI V2 plus a multimodal RAG V1 app. [Live demo](https://multi-modul-rag.vercel.app/) | Python, TypeScript, RAG |
-| **SelfEvolvingAgent** | Self-evolving, parallel-processing multi-agent system with human-in-the-loop governance. | REST APIs, Agents |
+| **MVL-AgenticAI** | Vectorless multimodal RAG system that builds a document tree, retrieves ranked sections, and answers with relevant images and tables. | FastAPI, React, Supabase, MongoDB, Unstructured.io |
+| **ChunkSmith-Home** | Document-indexing research ecosystem covering ChunkSmith CLI V2 and a multimodal RAG V1 app. [Live demo](https://multi-modul-rag.vercel.app/) | Python, TypeScript, RAG |
+| **SelfEvolvingAgent** | Self-evolving parallel multi-agent system with human-in-the-loop governance. | REST APIs, Agents |
 | **Renewal-Upsell-Advisor** | Autonomous revenue agent that predicts churn, triggers renewal workflows, and closes deals with voice calls and payments. [Live demo](https://renewal-upsell-advisor.services.ailifebot.com/) | AI agents, Payments |
-| **AutoVedioGenerator** | API that generates educational videos from a topic using LLM scripting, TTS, and Manim animations. | LLM, TTS, Manim |
-| **Interviewer_AI** | AI interview practice platform with LangChain-powered backend and real-time video analysis. | LangChain, Video AI |
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img width="820" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshulparate2004&amp;theme=github_dark" alt="Anshul's GitHub contribution summary" />
-</p>
-
-<p align="center">
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anshulparate2004&amp;theme=github_dark" alt="Anshul's top languages by repository" />
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anshulparate2004&amp;theme=github_dark" alt="Anshul's GitHub profile stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshulparate2004&amp;theme=tokyonight&amp;hide_border=true&amp;ring=38bdf8&amp;fire=38bdf8&amp;currStreakLabel=38bdf8" alt="Anshul's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="contrib-heatmap.svg?v=1" width="860" alt="Animated contribution heatmap" />
-</p>
+| **AutoVideoGenerator** | API that generates educational videos from a topic using LLM scripting, TTS, and Manim animations. | LLM, TTS, Manim |
+| **Interviewer_AI** | AI interview practice platform with a LangChain-powered backend and real-time video analysis. | LangChain, Video AI |
 
 ---
 
