@@ -30,7 +30,7 @@
       <br><br>
       I build full-stack web apps and practical AI systems, with a strong focus on document AI, multimodal RAG, agentic retrieval, machine learning projects, and clean developer tools.
       <br><br>
-      Currently learning deeper system design, advanced React patterns, LangGraph/LangChain workflows, production-ready AI architecture, and applied machine learning from foundations to deployment.
+      I am currently learning how to build GPT from scratch, deep learning, and reinforcement learning.
       <br><br>
       <code>React</code> <code>FastAPI</code> <code>Python</code> <code>LangGraph</code> <code>scikit-learn</code> <code>TensorFlow</code> <code>RAG</code>
     </td>
@@ -59,36 +59,6 @@
   <img src="https://img.shields.io/badge/PyTorch-0284C7?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
 </p>
 
-
----
-
-## Machine Learning Portfolio
-
-My machine learning work is organized by topic, with reusable datasets separated from notebooks and projects for cleaner experimentation.
-
-| Area | Focus |
-| --- | --- |
-| **Foundations** | EDA, encoding, feature engineering, pandas profiling, and machine learning notes |
-| **Data Engineering** | CSV/TSV, JSON, MySQL, APIs, web scraping, and data cleaning workflows |
-| **Regression** | Linear, multiple, polynomial, ridge, lasso, Elastic Net, gradient descent, time series, and ensemble models |
-| **Classification** | Logistic regression, KNN, Naive Bayes, decision trees, Random Forest, SVM, LDA/QDA, Find-S, and loan prediction |
-| **Clustering** | K-Means, PCA, and dimensionality reduction |
-| **Neural Networks** | Perceptrons, backpropagation, neural networks from scratch, MNIST, sonar classification, and autoencoders |
-| **Computer Vision** | Background subtraction, convolution from scratch, CNNs, and transfer learning |
-| **Production ML** | California housing prediction with a clean production-oriented structure |
-
----
-
-## Featured Work
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| **MVL-AgenticAI** | Vectorless multimodal RAG system that builds document trees, retrieves ranked sections, and answers with relevant images and tables. | FastAPI, React, Supabase, MongoDB, Unstructured.io |
-| **ChunkSmith-Home** | Document-indexing research ecosystem covering ChunkSmith CLI V2 and a multimodal RAG V1 app. [Live demo](https://multi-modul-rag.vercel.app/) | Python, TypeScript, RAG |
-| **SelfEvolvingAgent** | Self-evolving parallel multi-agent system with human-in-the-loop governance. | REST APIs, Agents |
-| **Renewal-Upsell-Advisor** | Autonomous revenue agent that predicts churn, triggers renewal workflows, and closes deals with voice calls and payments. [Live demo](https://renewal-upsell-advisor.services.ailifebot.com/) | AI agents, Payments |
-| **AutoVideoGenerator** | API that generates educational videos from a topic using LLM scripting, TTS, and Manim animations. | LLM, TTS, Manim |
-| **Interviewer_AI** | AI interview practice platform with a LangChain-powered backend and real-time video analysis. | LangChain, Video AI |
 
 ---
 
