@@ -64,7 +64,7 @@
 
 ## Machine Learning Portfolio
 
-I maintain a topic-organized machine learning portfolio with reusable datasets, focused notebooks, and production-style project structures.
+My machine learning work is organized by topic, with reusable datasets separated from notebooks and projects for cleaner experimentation.
 
 | Area | Focus |
 | --- | --- |
@@ -77,15 +77,13 @@ I maintain a topic-organized machine learning portfolio with reusable datasets, 
 | **Computer Vision** | Background subtraction, convolution from scratch, CNNs, and transfer learning |
 | **Production ML** | California housing prediction with a clean production-oriented structure |
 
-Datasets are centralized separately so notebooks and projects can reuse them without duplication.
-
 ---
 
 ## Featured Work
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **MVL-AgenticAI** | Vectorless multimodal RAG system that builds a document tree, retrieves ranked sections, and answers with relevant images and tables. | FastAPI, React, Supabase, MongoDB, Unstructured.io |
+| **MVL-AgenticAI** | Vectorless multimodal RAG system that builds document trees, retrieves ranked sections, and answers with relevant images and tables. | FastAPI, React, Supabase, MongoDB, Unstructured.io |
 | **ChunkSmith-Home** | Document-indexing research ecosystem covering ChunkSmith CLI V2 and a multimodal RAG V1 app. [Live demo](https://multi-modul-rag.vercel.app/) | Python, TypeScript, RAG |
 | **SelfEvolvingAgent** | Self-evolving parallel multi-agent system with human-in-the-loop governance. | REST APIs, Agents |
 | **Renewal-Upsell-Advisor** | Autonomous revenue agent that predicts churn, triggers renewal workflows, and closes deals with voice calls and payments. [Live demo](https://renewal-upsell-advisor.services.ailifebot.com/) | AI agents, Payments |
