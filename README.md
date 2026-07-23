@@ -28,11 +28,11 @@
     <td valign="top" width="58%">
       <strong>About me</strong>
       <br><br>
-      I build full-stack web apps and practical AI systems, with a strong focus on document AI, multimodal RAG, agentic retrieval, and clean developer tools.
+      I build full-stack web apps and practical AI systems, with a strong focus on document AI, multimodal RAG, agentic retrieval, machine learning projects, and clean developer tools.
       <br><br>
-      Currently learning deeper system design, advanced React patterns, LangGraph/LangChain workflows, and production-ready AI architecture.
+      Currently learning deeper system design, advanced React patterns, LangGraph/LangChain workflows, production-ready AI architecture, and applied machine learning from foundations to deployment.
       <br><br>
-      <code>React</code> <code>FastAPI</code> <code>Python</code> <code>LangGraph</code> <code>MongoDB</code> <code>PostgreSQL</code> <code>RAG</code>
+      <code>React</code> <code>FastAPI</code> <code>Python</code> <code>LangGraph</code> <code>scikit-learn</code> <code>TensorFlow</code> <code>RAG</code>
     </td>
     <td valign="top" width="42%">
       <img src="neofetch-card.svg?v=4" width="100%" alt="Blue neofetch style profile card for Anshul Parate" />
@@ -58,6 +58,26 @@
   <img src="https://img.shields.io/badge/TensorFlow-0369A1?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-0284C7?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
 </p>
+
+
+---
+
+## Machine Learning Portfolio
+
+I maintain a structured machine learning repository that is organized by topic instead of scattered lab folders:
+
+| Area | Focus |
+| --- | --- |
+| **Foundations** | EDA, encoding, feature engineering, pandas profiling, and ML notes |
+| **Data Engineering** | CSV/TSV, JSON, MySQL, APIs, web scraping, and data cleaning |
+| **Regression** | Linear, multiple, polynomial, ridge, lasso, Elastic Net, gradient descent, time series, and ensembles |
+| **Classification** | Logistic regression, KNN, Naive Bayes, decision trees, Random Forest, SVM, LDA/QDA, Find-S, and loan prediction |
+| **Clustering** | KMeans and PCA / dimensionality reduction |
+| **Neural Networks** | Perceptrons, backpropagation, neural networks from scratch, MNIST, sonar classification, and autoencoders |
+| **Computer Vision** | Background subtraction, convolution from scratch, CNNs, and transfer learning |
+| **Production ML** | California housing prediction with a production-style project structure |
+
+Datasets are centralized separately for easier reuse across notebooks and projects.
 
 ---
 
@@ -98,3 +118,4 @@
 <p align="center">
   <strong>Keep coding. Keep learning. Build useful AI.</strong>
 </p>
+
