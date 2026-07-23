@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="animated-terminal.svg?v=4" width="100%" alt="Blue animated GitHub profile banner for Anshul Parate" />
+  <img src="gitartwork.svg" width="100%" alt="Welcome GitHub artwork for Anshul Parate" />
 </p>
 
 <h1 align="center">Hi, I'm Anshul Parate</h1>
