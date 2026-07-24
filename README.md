@@ -35,7 +35,7 @@
       <code>React</code> <code>FastAPI</code> <code>Python</code> <code>LangGraph</code> <code>scikit-learn</code> <code>TensorFlow</code> <code>RAG</code>
     </td>
     <td valign="top" width="42%">
-      <img src="neofetch-card.svg?v=4" width="100%" alt="Blue neofetch style profile card for Anshul Parate" />
+      <img src="neofetch-card.svg?v=6" width="100%" alt="Blue neofetch style profile card for Anshul Parate" />
     </td>
   </tr>
 </table>
