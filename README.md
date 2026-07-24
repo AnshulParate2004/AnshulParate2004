@@ -74,6 +74,7 @@
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| **LLM From Scratch** | Learning repository for building GPT-style language models from PyTorch basics to bigram models and mini-GPT experiments. [Repo](https://github.com/AnshulParate2004/LLM) | Python, PyTorch, Jupyter |
 | **MVL-AgenticAI** | Multimodal RAG system that retrieves ranked document sections and answers with relevant images, tables, and context. | FastAPI, React, Supabase, MongoDB, Unstructured.io |
 | **ChunkSmith-Home** | Document-indexing research ecosystem with ChunkSmith CLI V2 and a multimodal RAG app. [Live demo](https://multi-modul-rag.vercel.app/) | Python, TypeScript, RAG |
 | **SelfEvolvingAgent** | Parallel multi-agent system with self-improvement workflows and human-in-the-loop governance. | Agents, REST APIs |
