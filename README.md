@@ -75,12 +75,10 @@
 | Project | What it does | Stack |
 | --- | --- | --- |
 | **LLM From Scratch** | Learning repository for building GPT-style language models from PyTorch basics to bigram models and mini-GPT experiments. [Repo](https://github.com/AnshulParate2004/LLM) | Python, PyTorch, Jupyter |
-| **MVL-AgenticAI** | Multimodal RAG system that retrieves ranked document sections and answers with relevant images, tables, and context. | FastAPI, React, Supabase, MongoDB, Unstructured.io |
-| **ChunkSmith-Home** | Document-indexing research ecosystem with ChunkSmith CLI V2 and a multimodal RAG app. [Live demo](https://multi-modul-rag.vercel.app/) | Python, TypeScript, RAG |
+| **ChunkSmith-Home** | Document-indexing research ecosystem with ChunkSmith CLI V2 and a multimodal RAG app.<br><br>[Live demo](https://multi-modul-rag.vercel.app/) • [Repo](https://github.com/AnshulParate2004/ChunkSmith) • [Docker](https://hub.docker.com/repository/docker/anshulnp/chunksmith-backend/general) • [Demo Video](https://www.youtube.com/watch?v=a9Haiu-e7ZU) | Python, TypeScript, RAG |
 | **SelfEvolvingAgent** | Parallel multi-agent system with self-improvement workflows and human-in-the-loop governance. | Agents, REST APIs |
-| **Renewal-Upsell-Advisor** | Autonomous revenue agent for churn prediction, renewal workflows, voice calls, and payments. [Live demo](https://renewal-upsell-advisor.services.ailifebot.com/) | AI Agents, Payments |
-| **AutoVideoGenerator** | API that creates educational videos from a topic using LLM scripts, TTS, and Manim animations. | LLM, TTS, Manim |
-| **Interviewer_AI** | AI interview practice platform with a LangChain backend and real-time video analysis. | LangChain, Video AI |
+| **Renewal-Upsell-Advisor** | Autonomous revenue agent for churn prediction, renewal workflows, voice calls, and payments.<br><br>[Live demo](https://renewal-upsell-advisor.services.ailifebot.com/) • [Repo](https://github.com/AnshulParate2004/Renewal-Upsell-Advisor) • [Demo Video](https://drive.google.com/file/d/1ZNv2-3Wv_tDpjZ5S-4ZkviUXODQQLWpL/view?usp=sharing) | AI Agents, Payments |
+| **Finacal Adviser** | Trading strategy generator using advanced NLP to convert natural language into executable DSL pipelines.<br><br>[Live demo](https://finacal-adviser.vercel.app/) • [Repo](https://github.com/AnshulParate2004/Finacal_Adviser) | React, FastAPI, NLP, Python |
 
 ---
 
