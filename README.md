@@ -78,7 +78,7 @@
 | **ChunkSmith-Home** | Document-indexing research ecosystem with ChunkSmith CLI V2 and a multimodal RAG app.<br><br>[Live demo](https://multi-modul-rag.vercel.app/) • [Repo](https://github.com/AnshulParate2004/ChunkSmith) • [Docker](https://hub.docker.com/repository/docker/anshulnp/chunksmith-backend/general) • [Demo Video](https://www.youtube.com/watch?v=a9Haiu-e7ZU) | Python, TypeScript, RAG |
 | **SelfEvolvingAgent** | Parallel multi-agent system with self-improvement workflows and human-in-the-loop governance. | Agents, REST APIs |
 | **Renewal-Upsell-Advisor** | Autonomous revenue agent for churn prediction, renewal workflows, voice calls, and payments.<br><br>[Live demo](https://renewal-upsell-advisor.services.ailifebot.com/) • [Repo](https://github.com/AnshulParate2004/Renewal-Upsell-Advisor) • [Demo Video](https://drive.google.com/file/d/1ZNv2-3Wv_tDpjZ5S-4ZkviUXODQQLWpL/view?usp=sharing) | AI Agents, Payments |
-| **Finacal Adviser** | Trading strategy generator using advanced NLP to convert natural language into executable DSL pipelines.<br><br>[Live demo](https://finacal-adviser.vercel.app/) • [Repo](https://github.com/AnshulParate2004/Finacal_Adviser) | React, FastAPI, NLP, Python |
+| **Financial Advisor** | Trading strategy generator using advanced NLP to convert natural language into executable DSL pipelines.<br><br>[Live demo](https://finacal-adviser.vercel.app/) • [Repo](https://github.com/AnshulParate2004/Financial_Advisor) | React, FastAPI, NLP, Python |
 
 ---
 
